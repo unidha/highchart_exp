@@ -8,7 +8,7 @@
         "valueDecimals": 1
     }, {
         "name": "Tam",
-        "data": [26.857,27,27.111,27.2,
+        "data": [26.857,27,27.111,27.2,39
         ],
         "unit": "m",
         "type": "column",
