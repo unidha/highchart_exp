@@ -3,21 +3,17 @@
     "datasets": [{
         "name": "2015-Q1",
         "data": [13.833,12.524,11.441,10.651,9.961],
-        "unit": "%",
-        "type": "column",
-        "valueDecimals": 1
+        "unit": "%"
+
     }, {
         "name": "2015-Q2",
         "data": [26.857,27,27.111,27.2,27.272],
-        "unit": "unit",
-        "type": "column",
-        "valueDecimals": 0
+        "unit": "unit"
+      
     }
     , {
         "name": "2015-Q3",
         "data": [26.857,27,27.111,27.2,27.272],
-        "unit": "unit",
-        "type": "column",
-        "valueDecimals": 0
+        "unit": "unit"
     }]
 }
