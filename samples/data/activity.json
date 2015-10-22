@@ -3,14 +3,14 @@
     "datasets": [{
         "name": "Profit",
         "data": [13.833,12.524,11.441,10.651,9.961],
-        "unit": "km/h",
-        "type": "bar",
+        "unit": "%",
+        "type": "column",
         "valueDecimals": 1
     }, {
         "name": "Selling",
         "data": [26.857,27,27.111,27.2,27.272],
-        "unit": "m",
-        "type": "bar",
+        "unit": "unit",
+        "type": "column",
         "valueDecimals": 0
     }]
 }
