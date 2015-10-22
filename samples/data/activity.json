@@ -1,13 +1,13 @@
 {
     "xData": [0.001567,0.011765,0.022194,0.032316,0.04266],
     "datasets": [{
-        "name": "Speed",
+        "name": "Profit",
         "data": [13.833,12.524,11.441,10.651,9.961],
         "unit": "km/h",
         "type": "line",
         "valueDecimals": 1
     }, {
-        "name": "Elevation",
+        "name": "Selling",
         "data": [26.857,27,27.111,27.2,27.272],
         "unit": "m",
         "type": "area",
