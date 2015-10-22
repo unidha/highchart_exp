@@ -12,11 +12,5 @@
         "unit": "m",
         "type": "area",
         "valueDecimals": 0
-    }, {
-        "name": "Heart rate",
-        "data": [101,98,103,115,124],
-        "unit": "bpm",
-        "type": "area",
-        "valueDecimals": 0
     }]
 }
